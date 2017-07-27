@@ -117,18 +117,9 @@ Android-Note里面记录了有关Android的常用基础知识、面试中经常�
 
 - [Android报错:Manifest-merger-failed-with-multiple-errors,see-logs](https://github.com/linsir6/AndroidNote/blob/master/AndroidNote/Android%E6%8A%A5%E9%94%99%E8%AE%B0%E5%BD%95/Android%E6%8A%A5%E9%94%99-Manifest%20merger%20failed%20with%20multiple%20errors%2C%20see%20logs.md)
 
-
-----
-
-# Getting Help
-
-To report a specific problem or feature request, open a new issue on Github. For questions, suggestions, or anything else, email linsir678@gmail.com.
-
-
-
 # Author
 
-关玮琳linSir - @[linsir6](https://github.com/linsir6) on GitHub, @[linsir.top](http://linsir.top)
+代黎明 - @[lmdai](https://github.com/lmDai) on GitHub
 
 # License
 
